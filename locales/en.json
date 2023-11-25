@@ -1,0 +1,73 @@
+{
+  "Home": {
+    "title": "Speech-Language Pathology",
+    "subtitle": "Is a field of healthcare expertise practiced globally. Speech-language pathology (SLP) specializes in the evaluation, diagnosis, treatment, and prevention of communication disorders (speech and language impairments), cognitive-communication disorders, voice disorders, pragmatic disorders, social communication difficulties and swallowing disorder across the lifespan.",
+    "history": "History",
+    "earlyHistoryTitle": "Early History",
+    "earlyHistoryText": "In the 18th century, speech problems were viewed as symptoms of disease. Speech therapy was therefore provided to treat the diseases using a medical framework. Jean-Marc Itard, one of the known physicians from this era, practiced the medical model. In his 1817 writings he theorized that stuttering was as a result of a problem of the nerves that control the tongue and larynx. Other therapists (referred to as elocutionists) like John Thelwall were against the medical model. Instead of surgeries, Thelwall's therapy practices included imitation, education and stimulation depending on individual needs.",
+    "lateHistoryTitle": "Development into a profession",
+    "lateHistoryText": "The development of SLP into a profession took different paths in the various regions of the world. Three identifiable trends influenced the evolution of SLP in the United States during the late 19th century to early 20th century: the elocution movement, scientific revolution, and the rise of professionalism. Groups of 'speech correctionists' formed in the early 1900s. The American Academy of Speech Correction was founded in 1925, and became the current American Speech-Language-Hearing Association in 1978.",
+    "servicesTitle": "Provided Services",
+    "servicesTableHeader": {
+      "service": "Service",
+      "description": "Description"
+    },
+    "servicesTableBody": {
+      "s1": {
+        "service": "Cognitive aspects of communication",
+        "description": "Example: attention, memory, problem-solving, executive functions"
+      },
+      "s2": {
+        "service": "Speech",
+        "description": "Phonation, articulation, fluency, resonance, and voice including aeromechanical components of respiration"
+      },
+      "s3": {
+        "service": "Language",
+        "description": "(phonology, morphology, syntax, semantics, and pragmatic/social aspects of communication) including comprehension and expression in oral, written, graphic, and manual modalities; language processing; preliteracy and language-based literacy skills, phonological awareness"
+      },
+      "s4": {
+        "service": "Augmentative and alternative communication",
+        "description": "For individuals with severe language and communication impairments"
+      },
+      "s5": {
+        "service": "Swallowing or other upper aerodigestive functions",
+        "description": "Such as infant feeding and aeromechanical events (evaluation of esophageal function is for the purpose of referral to medical professionals)"
+      },
+      "s6": {
+        "service": "Voice",
+        "description": "(hoarseness, dysphonia), poor vocal volume (hypophonia), abnormal (e.g., rough, breathy, strained) vocal quality. Research demonstrates voice therapy to be especially helpful with certain patient populations; individuals with Parkinson's Disease often develop voice issues as a result of their disease"
+      },
+      "s7": {
+        "service": "Sensory awareness",
+        "description": "Related to communication, swallowing, or other upper aerodigestive functions"
+      }
+    }
+  },
+  "Faqs": {
+    "title": "Frequently Asked Questions",
+    "faqsTableBody": {
+      "f1": {
+        "question": "What are the two main aspects of assessment?",
+        "answer": "Two main aspects of assessment can be to determine the extent of breakdown (impairment-level), or how communication can be supported (functional level). When evaluating impairment-based level of breakdown, therapists are trained to use a cognitive neuropsychological approach to assessment, to precisely determine what aspect of communication is impaired."
+      },
+      "f2": {
+        "question": "Where do SLPs work?",
+        "answer": "SLPs work in a variety of clinical and educational settings. SLPs work in public and private hospitals, private practices, skilled nursing facilities (SNFs), long-term acute care (LTAC) facilities, hospice, and home healthcare. SLPs may also work as part of the support structure in the education system, working in both public and private schools, colleges, and universities. Some SLPs also work in community health, providing services at prisons and young offenders' institutions or providing expert testimony in applicable court cases."
+      },
+      "f3": {
+        "question": "What is multi-discipline collaboration?",
+        "answer": "SLPs collaborate with other health care professionals, often working as part of a multidisciplinary team. They can provide information and referrals to audiologists, physicians, dentists, nurses, nurse practitioners, occupational therapists, rehabilitation psychologists, dietitians, educators, behavior consultants (applied behavior analysis) and parents as dictated by the individual client's needs. For example, the treatment for patients with cleft lip and palate often requires multidisciplinary collaboration. Speech–language pathologists can be very beneficial to help resolve speech problems associated with cleft lip and palate. Research has indicated that children who receive early language intervention are less likely to develop compensatory error patterns later in life, although speech therapy outcomes are usually better when surgical treatment is performed earlier. Another area of collaboration relates to auditory processing disorders, where SLPs can collaborate in assessments and provide intervention where there is evidence of speech, language, and/or other cognitive-communication disorders."
+      },
+      "f4": {
+        "question": "What are the components of the profession?",
+        "answer": "The components of speech production include: (i) phonation (producing sound), (ii) resonance, (iii) fluency, (iv) intonation, (iv) pitch variance; (v) voice (including aeromechanical components of respiration). The components of language include: (i) phonology (manipulating sound according to the rules of a language); (ii) morphology (understanding components of words and how they can modify meaning); (iii) syntax (constructing sentences according to the grammatical rules of a target language), (iv) semantics (interpreting signs or symbols of communication such as words or signs to construct meaning); (v) pragmatics (social aspects of communication)."
+      }
+    }
+  },
+  "Nav": {
+    "home": "SLP",
+    "faqs": "FAQs",
+    "articles": "Articles",
+    "about": "About"
+  }
+}

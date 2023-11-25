@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+LICENSE
+.env
+*.md
+*.env
+.github
+.eslintrc
+.eslintignore
+.gitignore
+.vscode
+.idea
+.next

@@ -1,0 +1,73 @@
+{
+  "Home": {
+    "title": "Logopedie",
+    "subtitle": "Logopedie is de behandeling van communicatiestoornissen met betrekking tot alle functies van de mond. Het komt van de Griekse woorden logos (woord) en paideia (opvoeding). Tijdens de behandelingen krijgt de cliënt zorg, training en adviezen met als doel het herstellen en onderhouden van de communicatie in al haar facetten zoals stemgebruik, uitspraak, gehoor en taal. Daarbij kan ook aandacht zijn voor andere mondfuncties zoals slikken, drinken en eten.",
+    "history": "Geschiedenis",
+    "earlyHistoryTitle": "Vroege Geschiedenis",
+    "earlyHistoryText": "In de 18e eeuw werden spraakproblemen gezien als symptomen van ziekte. Daarom werd logopedie aangeboden om de ziekten te behandelen vanuit een medisch kader. Jean-Marc Itard, een van de bekende artsen uit deze tijd, beoefende het medische model. In zijn geschriften uit 1817 theoretiseerde hij dat stotteren het gevolg was van een probleem van de zenuwen die de tong en het strottenhoofd beheersen. Andere therapeuten (ook wel voordrachtsmensen genoemd) zoals John Thelwall waren tegen het medische model. In plaats van operaties omvatten de therapiepraktijken van Thelwall imitatie, educatie en stimulatie, afhankelijk van de individuele behoeften.",
+    "lateHistoryTitle": "Ontwikkeling naar een beroep",
+    "lateHistoryText": "De ontwikkeling van SLP tot een beroep volgde verschillende wegen in de verschillende delen van de wereld. Drie identificeerbare trends hebben de evolutie van SLP in de Verenigde Staten van eind 19e tot begin 20e eeuw beïnvloed: de dictiebeweging, de wetenschappelijke revolutie en de opkomst van professionalisme. In het begin van de 20e eeuw ontstonden groepen 'spraakcorrectiedeskundigen'. De American Academy of Speech Correction werd opgericht in 1925 en werd in 1978 de huidige American Speech-Language-Hearing Association.",
+    "servicesTitle": "Geleverde Diensten",
+    "servicesTableHeader": {
+      "service": "Dienst",
+      "description": "Beschrijving"
+    },
+    "servicesTableBody": {
+      "s1": {
+        "service": "Cognitieve aspecten van communicatie",
+        "description": "Voorbeeld: aandacht, geheugen, probleemoplossing, executieve functies"
+      },
+      "s2": {
+        "service": "Toespraak",
+        "description": "Fonatie, articulatie, vloeiendheid, resonantie en stem, inclusief aeromechanische componenten van de ademhaling"
+      },
+      "s3": {
+        "service": "Taal",
+        "description": "(fonologie, morfologie, syntaxis, semantiek en pragmatische/sociale aspecten van communicatie), inclusief begrip en expressie in mondelinge, schriftelijke, grafische en handmatige modaliteiten; taalverwerking; voorgeletterdheid en op taal gebaseerde geletterdheid, fonologisch bewustzijn"
+      },
+      "s4": {
+        "service": "Ondersteunende en alternatieve communicatie",
+        "description": "Voor mensen met ernstige taal- en communicatieproblemen"
+      },
+      "s5": {
+        "service": "Slikken of andere bovenste aerodigestieve functies",
+        "description": "Zoals zuigelingenvoeding en aeromechanische gebeurtenissen (evaluatie van de slokdarmfunctie is bedoeld voor verwijzing naar medische professionals)"
+      },
+      "s6": {
+        "service": "Stem",
+        "description": "(heesheid, dysfonie), slecht stemvolume (hypofonie), abnormale (bijv. ruwe, ademende, gespannen) stemkwaliteit. Onderzoek toont aan dat stemtherapie vooral nuttig is bij bepaalde patiëntenpopulaties; Mensen met de ziekte van Parkinson ontwikkelen vaak stemproblemen als gevolg van hun ziekte"
+      },
+      "s7": {
+        "service": "Zintuiglijk bewustzijn",
+        "description": "Gerelateerd aan communicatie, slikken of andere bovenste lucht- en spijsverteringsfuncties"
+      }
+    }
+  },
+  "Faqs": {
+    "title": "Veel Gestelde Vragen",
+    "faqsTableBody": {
+      "f1": {
+        "question": "Wat zijn de twee belangrijkste aspecten van beoordelen?",
+        "answer": "Twee belangrijke aspecten van de beoordeling kunnen het bepalen van de omvang van de storing zijn (niveau van de beperking), of hoe de communicatie kan worden ondersteund (functioneel niveau). Bij het beoordelen van het op beperkingen gebaseerde niveau van de storing zijn therapeuten getraind in het gebruik van een cognitieve neuropsychologische benadering van beoordeling, om precies te bepalen welk aspect van de communicatie verstoord is."
+      },
+      "f2": {
+        "question": "Waar werken SLP's?",
+        "answer": "SLP's werken in verschillende klinische en educatieve omgevingen. SLP's werken in openbare en particuliere ziekenhuizen, privépraktijken, geschoolde verpleeginstellingen (SNF's), faciliteiten voor langdurige acute zorg (LTAC), hospice en thuiszorg. SLP's kunnen ook werken als onderdeel van de ondersteunende structuur in het onderwijssysteem en werken op zowel openbare als particuliere scholen, hogescholen en universiteiten. Sommige SLP's werken ook in de gemeenschapsgezondheidszorg, verlenen diensten in gevangenissen en instellingen voor jonge delinquenten of geven getuigenissen van deskundigen in toepasselijke rechtszaken."
+      },
+      "f3": {
+        "question": "Wat is multidisciplinaire samenwerking?",
+        "answer": "SLP's werken samen met andere beroepsbeoefenaren in de gezondheidszorg, vaak als onderdeel van een multidisciplinair team. Ze kunnen informatie en verwijzingen verstrekken aan audiologen, artsen, tandartsen, verpleegkundigen, verpleegkundig specialisten, ergotherapeuten, revalidatiepsychologen, diëtisten, docenten, gedragsconsulenten (toegepaste gedragsanalyse) en ouders, afhankelijk van de behoeften van de individuele cliënt. Zo vergt de behandeling van patiënten met een schisis vaak multidisciplinaire samenwerking. Spraak-taalpathologen kunnen zeer nuttig zijn bij het oplossen van spraakproblemen die verband houden met een gespleten lip en gehemelte. Onderzoek heeft uitgewezen dat kinderen die vroegtijdige taalinterventie krijgen minder snel compenserende foutpatronen ontwikkelen op latere leeftijd, hoewel de resultaten van logopedie doorgaans beter zijn als de chirurgische behandeling eerder wordt uitgevoerd. Een ander samenwerkingsgebied heeft betrekking op auditieve verwerkingsstoornissen, waarbij SLP's kunnen samenwerken bij beoordelingen en interventies kunnen bieden als er aanwijzingen zijn voor spraak-, taal- en/of andere cognitieve-communicatiestoornissen."
+      },
+      "f4": {
+        "question": "Wat zijn de componenten van het beroep?",
+        "answer": "De componenten van spraakproductie omvatten: (i) fonatie (geluid produceren), (ii) resonantie, (iii) vloeiendheid, (iv) intonatie, (iv) toonhoogtevariantie; v) stem (inclusief aeromechanische ademhalingscomponenten). De componenten van taal omvatten: (i) fonologie (het manipuleren van geluid volgens de regels van een taal); (ii) morfologie (het begrijpen van componenten van woorden en hoe ze de betekenis kunnen veranderen); (iii) syntaxis (zinnen construeren volgens de grammaticale regels van een doeltaal), (iv) semantiek (tekens of symbolen van communicatie interpreteren, zoals woorden of tekens om betekenis te construeren); (v) pragmatiek (sociale aspecten van communicatie)."
+      }
+    }
+  },
+  "Nav": {
+    "home": "Logopedie",
+    "faqs": "FAQs",
+    "articles": "Artikelen",
+    "about": "Over"
+  }
+}
