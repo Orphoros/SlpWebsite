@@ -63,4 +63,4 @@ jobs:
           known_hosts: ${{ secrets.KNOWN_HOST }}
           if_key_exists: ignore
       - name: Execute Deployment Script
-        run: ssh docker-runner@srv.orphoros.com ./docker/DockerDeploy.sh slp 172.19.0.12:3000:3000
+        run: ssh docker-runner@srv.orphoros.com ./docker/DockerDeploy.sh slp 172.19.0.12 3000:3000
