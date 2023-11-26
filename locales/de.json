@@ -1,0 +1,73 @@
+{
+  "Home": {
+    "title": "Sprachpathologie",
+    "subtitle": "Ist ein Fachgebiet im Gesundheitswesen, das weltweit praktiziert wird. Die Sprachpathologie (SLP) ist auf die Beurteilung, Diagnose, Behandlung und Prävention von Kommunikationsstörungen (Sprech- und Sprachstörungen), kognitiven Kommunikationsstörungen, Stimmstörungen, pragmatischen Störungen, sozialen Kommunikationsschwierigkeiten und Schluckstörungen über die gesamte Lebensspanne spezialisiert.",
+    "history": "Geschichte",
+    "earlyHistoryTitle": "Frühe Geschichte",
+    "earlyHistoryText": "Im 18. Jahrhundert galten Sprachprobleme als Krankheitssymptome. Zur Behandlung der Erkrankungen wurde daher eine Logopädie im medizinischen Rahmen angeboten. Jean-Marc Itard, einer der bekanntesten Ärzte dieser Zeit, praktizierte das medizinische Modell. In seinen Schriften von 1817 stellte er die Theorie auf, dass Stottern auf ein Problem der Nerven zurückzuführen sei, die die Zunge und den Kehlkopf kontrollieren. Andere Therapeuten (sogenannte Redner) wie John Thelwall waren gegen das medizinische Modell. Anstelle von Operationen umfassten Thelwalls Therapiepraktiken je nach individuellen Bedürfnissen Nachahmung, Aufklärung und Stimulation.",
+    "lateHistoryTitle": "Entwicklung zum Beruf",
+    "lateHistoryText": "Die Entwicklung des SLP zum Beruf verlief in den verschiedenen Regionen der Welt unterschiedlich. Drei erkennbare Trends beeinflussten die Entwicklung von SLP in den Vereinigten Staaten im späten 19. und frühen 20. Jahrhundert: die Elocution-Bewegung, die wissenschaftliche Revolution und der Aufstieg der Professionalität. Zu Beginn des 20. Jahrhunderts bildeten sich Gruppen von „Sprachkorrektoren“. Die American Academy of Speech Correction wurde 1925 gegründet und wurde 1978 zur heutigen American Speech-Language-Hearing Association.",
+    "servicesTitle": "Bereitgestellte Dienste",
+    "servicesTableHeader": {
+      "service": "Service",
+      "description": "Beschreibung"
+    },
+    "servicesTableBody": {
+      "s1": {
+        "service": "Kognitive Aspekte der Kommunikation",
+        "description": "Beispiel: Aufmerksamkeit, Gedächtnis, Problemlösung, exekutive Funktionen"
+      },
+      "s2": {
+        "service": "Rede",
+        "description": "Phonation, Artikulation, Geläufigkeit, Resonanz und Stimme einschließlich aeromechanischer Komponenten der Atmung"
+      },
+      "s3": {
+        "service": "Sprache",
+        "description": "(Phonologie, Morphologie, Syntax, Semantik und pragmatische/soziale Aspekte der Kommunikation) einschließlich Verständnis und Ausdruck in mündlichen, schriftlichen, grafischen und manuellen Modalitäten; Sprachverarbeitung; Vorkompetenz und sprachbasierte Lese- und Schreibfähigkeiten, phonologisches Bewusstsein"
+      },
+      "s4": {
+        "service": "Augmentative und alternative Kommunikation",
+        "description": "Für Personen mit schweren Sprach- und Kommunikationsbeeinträchtigungen"
+      },
+      "s5": {
+        "service": "Schlucken oder andere obere aerodigestive Funktionen",
+        "description": "Such as infant feeding and aeromechanical events (evaluation of esophageal function is for the purpose of referral to medical professionals)"
+      },
+      "s6": {
+        "service": "Stimme",
+        "description": "(Heiserkeit, Dysphonie), schlechte Stimmlautstärke (Hypophonie), abnormale (z. B. raue, heisere, angestrengte) Stimmqualität. Untersuchungen zeigen, dass die Stimmtherapie bei bestimmten Patientengruppen besonders hilfreich ist; Menschen mit Parkinson-Krankheit entwickeln aufgrund ihrer Krankheit häufig Stimmprobleme"
+      },
+      "s7": {
+        "service": "Sinneswahrnehmung",
+        "description": "Bezogen auf Kommunikation, Schlucken oder andere Funktionen der oberen Luft- und Verdauungsorgane"
+      }
+    }
+  },
+  "Faqs": {
+    "title": "Häufig gestellte Fragen",
+    "faqsTableBody": {
+      "f1": {
+        "question": "Was sind die beiden Hauptaspekte der Beurteilung?",
+        "answer": "Zwei Hauptaspekte der Beurteilung können darin bestehen, das Ausmaß des Ausfalls zu bestimmen (Beeinträchtigungsebene) oder wie die Kommunikation unterstützt werden kann (funktionale Ebene). Bei der Beurteilung des auf einer Beeinträchtigung basierenden Ausmaßes des Zusammenbruchs werden Therapeuten darin geschult, einen kognitiven neuropsychologischen Ansatz zur Beurteilung anzuwenden, um genau zu bestimmen, welcher Aspekt der Kommunikation beeinträchtigt ist."
+      },
+      "f2": {
+        "question": "Wo arbeiten SLPs?",
+        "answer": "SLPs arbeiten in einer Vielzahl von klinischen und pädagogischen Umgebungen. SLPs arbeiten in öffentlichen und privaten Krankenhäusern, Privatpraxen, qualifizierten Pflegeeinrichtungen (SNFs), Einrichtungen der Langzeitakutpflege (LTAC), Hospizen und in der häuslichen Krankenpflege. SLPs können auch als Teil der Unterstützungsstruktur im Bildungssystem arbeiten und sowohl in öffentlichen als auch privaten Schulen, Hochschulen und Universitäten arbeiten. Einige SLPs sind auch im kommunalen Gesundheitswesen tätig, indem sie Dienstleistungen in Gefängnissen und Einrichtungen für junge Straftäter erbringen oder Sachverständigengutachten in einschlägigen Gerichtsverfahren abgeben."
+      },
+      "f3": {
+        "question": "Was ist multidisziplinäre Zusammenarbeit?",
+        "answer": "SLPs arbeiten mit anderen Fachkräften des Gesundheitswesens zusammen und arbeiten oft als Teil eines multidisziplinären Teams. Sie können Audiologen, Ärzten, Zahnärzten, Krankenschwestern, Krankenpflegern, Ergotherapeuten, Rehabilitationspsychologen, Ernährungsberatern, Pädagogen, Verhaltensberatern (angewandte Verhaltensanalyse) und Eltern Informationen und Empfehlungen geben, je nach den Bedürfnissen des einzelnen Klienten. Beispielsweise erfordert die Behandlung von Patienten mit Lippen-Kiefer-Gaumenspalten häufig eine multidisziplinäre Zusammenarbeit. Logopäden können bei der Lösung von Sprachproblemen im Zusammenhang mit Lippen-Kiefer-Gaumenspalten sehr hilfreich sein. Untersuchungen haben gezeigt, dass Kinder, die eine frühzeitige Sprachintervention erhalten, später im Leben seltener kompensatorische Fehlermuster entwickeln, obwohl die Ergebnisse der Sprachtherapie in der Regel besser sind, wenn die chirurgische Behandlung früher durchgeführt wird. Ein weiterer Bereich der Zusammenarbeit betrifft auditive Verarbeitungsstörungen, bei denen SLPs bei Beurteilungen zusammenarbeiten und Interventionen durchführen können, wenn Hinweise auf Sprech-, Sprach- und/oder andere kognitive Kommunikationsstörungen vorliegen."
+      },
+      "f4": {
+        "question": "Was sind die Bestandteile des Berufs?",
+        "answer": "Zu den Komponenten der Sprachproduktion gehören: (i) Phonation (Klangerzeugung), (ii) Resonanz, (iii) Sprachfluss, (iv) Intonation, (iv) Tonhöhenvarianz; (v) Stimme (einschließlich aeromechanischer Komponenten der Atmung). Zu den Komponenten der Sprache gehören: (i) Phonologie (Manipulation von Lauten gemäß den Regeln einer Sprache); (ii) Morphologie (Bestandteile von Wörtern verstehen und wie sie ihre Bedeutung verändern können); (iii) Syntax (Konstruktion von Sätzen gemäß den grammatikalischen Regeln einer Zielsprache), (iv) Semantik (Interpretation von Zeichen oder Symbolen der Kommunikation wie Wörtern oder Zeichen, um Bedeutung zu konstruieren); (v) Pragmatik (soziale Aspekte der Kommunikation)."
+      }
+    }
+  },
+  "Nav": {
+    "home": "SP",
+    "faqs": "FAQs",
+    "articles": "Articles",
+    "about": "About"
+  }
+}
