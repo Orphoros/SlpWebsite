@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	locales: [ { code: "en", country: "gb"}, { code: "nl", country: "nl"}, { code: "de", country: "de"} ],
+	locales: [ { code: "en", country: "gb"}, { code: "nl", country: "nl"}, { code: "de", country: "de"}, { code: "el", country: "gr"} ],
 	name: "SLP",
 	description: "Speech and Language Pathology",
 	navItems: [
