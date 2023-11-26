@@ -66,8 +66,6 @@
   },
   "Nav": {
     "home": "SLP",
-    "faqs": "FAQs",
-    "articles": "Articles",
-    "about": "About"
+    "faqs": "FAQs"
   }
 }
