@@ -16,7 +16,7 @@ Instead, please report them by emailing to `contact at orphoros dot com`.
 
 ## Supported Versions
 
-Currently, due to the early stage of development, only the latest version of Shark is supported with security updates.
+Currently, due to the project being used only for demonstration, no version is supported with long term support security updates.
 
 ## Preferred Languages
 
